@@ -1,0 +1,45 @@
+h1 {
+  background-color: rgb(14, 43, 160);
+  color: white;
+  text-align: center;
+  padding: 25px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  font-size: 40px;
+}
+body {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif
+}
+footer {
+  background-color: rgb(14, 43, 160);
+  color: white;
+  padding: 55px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  margin-top: 200px;
+}
+#box {
+  padding-left: 150px;
+  padding-right: 400px;
+}
+#side {
+padding-left: 650px;
+padding-right: 50px;
+margin-top: -350px;
+text-align: left;
+}
+#bluebar {
+  border-style: solid;
+  border-width:9px;
+  border-color: rgb(178, 222, 255);
+}
+#design {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 28px;
+}
+P {
+  text-align: left;
+}
